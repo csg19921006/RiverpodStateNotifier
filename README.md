@@ -1,0 +1,2 @@
+# RiverpodStateNotifier
+riverpod_stateNotifier
